@@ -1,12 +1,12 @@
 import React, { useContext } from "react";
-import "./SearchName.css";
+//import "./SearchName.css";
 import DataAreaContext from "../../utils/DataAreaContext";
 
 const SearchName = () => {
   const context = useContext(DataAreaContext);
 
   return (
-    <div className="searchbox">
+    <div className="searchBox">
       <div className="input-group">
           <div className="input-group-prepend">
             <span className="input-group-text" id="">
