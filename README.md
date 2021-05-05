@@ -1,7 +1,6 @@
 # react-employee-directory
-![Getting Started](./assets/PWA-app-screenshot.png)
-![Getting Started](./assets/PWA-screenshot-heroku.png)
-![Getting Started](./assets/PWA-screenshot1.png)
+![Getting Started](./assets/react-employee-directory.png)
+
 
 
 ## Description
